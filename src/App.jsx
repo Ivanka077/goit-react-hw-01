@@ -1,5 +1,5 @@
 import Profile from "./components/Profile/Profile";
-
+import FriendList from "./components/Profile/FriendList/FriendList";
 import userData from "./userData.json";
 
 const App = () => {
